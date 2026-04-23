@@ -1,3 +1,6 @@
+# DEPRECATED! Releases are now build withing sources repository
+https://github.com/steel-team/OpenrhynnJavaServer
+
 # OpenrhynnServerBinaries
 Contains ready to use ORServer
 
